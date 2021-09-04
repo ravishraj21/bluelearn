@@ -27,7 +27,6 @@ setInterval(() => {
 }, 120);
 
 let aboutBtn = document.querySelector('.btn')
-
 aboutBtn.addEventListener('click', () => {
 	window.scrollBy(0, 600);
 })
