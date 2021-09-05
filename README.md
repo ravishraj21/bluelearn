@@ -15,11 +15,11 @@ After installation, run "npm start" to start the local development server
 
 ## Video Demo 
 
-
+<br>
 
 https://user-images.githubusercontent.com/79051028/132127230-bfbb49a3-28a8-4ea4-aed3-24a5b80f8365.mp4
 
-
+<br><br>
 
 ## Screenshots 
 
