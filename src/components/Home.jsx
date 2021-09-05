@@ -1,5 +1,5 @@
 import React from 'react';
-import homeImg from '../assets/images/Programming-rafiki.png';
+import homeImg from './Programming-rafiki.png';
 
 export default () => {
 	return (
@@ -10,7 +10,7 @@ export default () => {
 				journey of Web Development in best and then easiest way
 			</div>
 			<div className="home__img">
-				<img src={homeImg} alt="" />
+				<img src={homeImg} alt="Home Image" />
 			</div>
 		</div>
 	);

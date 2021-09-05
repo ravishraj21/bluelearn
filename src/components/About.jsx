@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaArrowCircleRight } from 'react-icons/fa';
-import aboutImg from '../assets/images/version_control-rafiki.png'
+import aboutImg from './vc.png'
 
 import { Link } from 'react-router-dom';
 
@@ -8,7 +8,7 @@ export default () => {
 	return (
 		<div className="about" id="about">
 			<div className="about__img">
-				<img src={aboutImg} alt="" />
+				<img src={aboutImg} alt="About image" />
 			</div>
 			<div className="about__content">
 				This is not just a RoadMap of the sort but a fantastic resource on what

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Splide, SplideSlide } from '@splidejs/react-splide';
+import { Splide, SplideSlide } from '/node_modules/@splidejs/react-splide';
 import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css';
 import Tilty from 'react-tilty';
 export default ({ heading, links }) => {
@@ -19,9 +19,9 @@ export default ({ heading, links }) => {
               }}
               className="slider__vertical"
             >
-              {links.map(({ href, title }) => {
+              {links.map(({ href, title }, index) => {
                 return (
-                  <SplideSlide className="slider--content">
+                  <SplideSlide key={index} className="slider--content">
                     <a href={href} target="_blank">
                       {title}
                     </a>
