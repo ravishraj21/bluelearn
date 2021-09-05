@@ -12,12 +12,12 @@ export default () => {
 			<Switch>
 				<Route exact path="/explore">
 					<Link to="/frontend">
-						<Tilty glare={true} maxGlare={0.7} scale={1.2} perspective={800}>
+						<Tilty max={25} glare={true} maxGlare={0.7} scale={1.2} perspective={800}>
 							<div className="card card--frontend">Frontend</div>
 						</Tilty>
 					</Link>
 					<Link to="/backend">
-						<Tilty glare={true} maxGlare={0.7} scale={1.2} perspective={800}>
+						<Tilty max={25} glare={true} maxGlare={0.7} scale={1.2} perspective={800}>
 							<div className="card card--backend">Backend</div>
 						</Tilty>
 					</Link>
