@@ -13,6 +13,8 @@
 To run run the app, clone the git hub repo, in the project folder run "npm install" to install all the dependencies locally.
 After installation, run "npm start" to start the local development server
 
+<br>
+
 ## Video Demo 
 
 <br>
