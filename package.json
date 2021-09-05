@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "ravishraj, pseudo-bot, Saranggupta11",
   "license": "ISC",
   "dependencies": {
     "@splidejs/react-splide": "^0.4.4",
