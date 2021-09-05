@@ -20,9 +20,15 @@ After installation, run "npm start" to start the local development server
 
 ![homepage](https://user-images.githubusercontent.com/79051028/132126460-850c4ab2-6f69-4d9c-bd5b-3a6d1fb254b2.png)
 
+
+
 ![aboutpage](https://user-images.githubusercontent.com/79051028/132126468-87bccc4e-f8c7-4d2b-a474-b577492c0d63.png)
 
+
+
 ![explorepage](https://user-images.githubusercontent.com/79051028/132126474-ba6b83c7-154a-48bb-8739-4cf4eb3e2870.png)
+
+
 
 ![frontend](https://user-images.githubusercontent.com/79051028/132126497-726c73c4-0954-4857-ac6b-b75261e2af70.png)
 
